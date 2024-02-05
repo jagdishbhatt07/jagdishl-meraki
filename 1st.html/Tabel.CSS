@@ -1,0 +1,25 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.jais {
+    background-color: aqua;
+}
+
+thead {
+    background-color: rgb(192, 226, 43);
+}
+#bass{
+    background-color: hotpink;
+    color: brown;
+}
